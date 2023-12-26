@@ -15,6 +15,5 @@ public class Lab004 {
         //find max in between 3 numbers
         int max = a>b ? (a>c ? a:c) : (b<c ? c:b);
         System.out.println(max);
-
     }
 }
