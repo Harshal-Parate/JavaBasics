@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
-      <change beforePath="$PROJECT_DIR$/src/Lab009.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab009.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/src/Lab009.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/src/Lab009.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +42,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "BasicsOfJava",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab009">
-    <configuration name="Lab005" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab005" />
+  <component name="RunManager" selected="Application.Lab017_tenQuestionsToCode">
+    <configuration name="Lab013_primeNumberChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Lab013_primeNumberChecker" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab006" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab006" />
+    <configuration name="Lab014_leapYearFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Lab014_leapYearFinder" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab007" />
+    <configuration name="Lab015_doubleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Lab015_doubleTheArray" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab008" />
+    <configuration name="Lab016_fizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Lab016_fizzBuzz" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab009" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab009" />
+    <configuration name="Lab017_tenQuestionsToCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Lab017_tenQuestionsToCode" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab009" />
-        <item itemvalue="Application.Lab008" />
-        <item itemvalue="Application.Lab007" />
-        <item itemvalue="Application.Lab006" />
-        <item itemvalue="Application.Lab005" />
+        <item itemvalue="Application.Lab017_tenQuestionsToCode" />
+        <item itemvalue="Application.Lab013_primeNumberChecker" />
+        <item itemvalue="Application.Lab016_fizzBuzz" />
+        <item itemvalue="Application.Lab015_doubleTheArray" />
+        <item itemvalue="Application.Lab014_leapYearFinder" />
       </list>
     </recent_temporary>
   </component>
