@@ -122,5 +122,4 @@ public class Lab017_tenQuestionsToCode {
     public static double simpleInterestCalculator(double principalBalance, double annualInterestRate, float timeInYears) {
         return ((principalBalance*annualInterestRate*timeInYears)/100);
     }
-    
 }
