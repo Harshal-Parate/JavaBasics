@@ -1,5 +1,7 @@
 package src;
 
+import java.util.ArrayList;
+
 public class Lab017_tenQuestionsToCode {
     public static void primeNumberChecker(int number) {
         int counter = 0;
@@ -122,5 +124,16 @@ public class Lab017_tenQuestionsToCode {
     public static double simpleInterestCalculator(double principalBalance, double annualInterestRate, float timeInYears) {
         return ((principalBalance*annualInterestRate*timeInYears)/100);
     }
-    
+
+    public static ArrayList<Integer> removeConsecutiveElements(int[] arr) {
+
+        ArrayList<Integer> result = new ArrayList<>();
+        result.add(arr[0]);
+        for(int i=1; i<arr.length; i++) {
+            if(arr[i]!=arr[i-1]) {
+                result.add(arr[i]);
+            }
+        }
+        return result;
+    }
 }
