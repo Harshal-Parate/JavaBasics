@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/leetCode/mergeTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/leetCode/mergeTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/practicePackage/ReverseAStringUsingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/practicePackage/SwapTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/practicePackage/TakeUserInputAsArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/src/Lab018_printDiagonalElementOf2_DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/src/Lab018_printDiagonalElementOf2_DArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/src/Lab020_palindromeNumbers.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab018_maxInArray">
-    <configuration name="Lab018_maxInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab018_maxInArray" />
+  <component name="RunManager" selected="Application.ReturnPrefix">
+    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.PalindromeChecker" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab018_printDiagonalElementOf2_DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Lab018_printDiagonalElementOf2_DArray" />
+    <configuration name="ReturnPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.ReturnPrefix" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mergeTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.mergeTwoArrays" />
+    <configuration name="RomanNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.RomanNumbers" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.sumOfTwoNumbers" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnPrefix" />
+        <item itemvalue="Application.RomanNumbers" />
+        <item itemvalue="Application.PalindromeChecker" />
+        <item itemvalue="Application.sumOfTwoNumbers" />
         <item itemvalue="Application.removeElementInArray" />
-        <item itemvalue="Application.mergeTwoArrays" />
-        <item itemvalue="Application.Lab018_printDiagonalElementOf2_DArray" />
-        <item itemvalue="Application.Lab018_maxInArray" />
       </list>
     </recent_temporary>
   </component>
