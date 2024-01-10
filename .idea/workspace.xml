@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/leetCode/mergeTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/leetCode/mergeTwoArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/practicePackage/ReverseAStringUsingArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/practicePackage/SwapTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/practicePackage/TakeUserInputAsArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/src/Lab018_printDiagonalElementOf2_DArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/src/Lab018_printDiagonalElementOf2_DArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/src/Lab020_palindromeNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +44,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReturnPrefix">
-    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.PalindromeChecker" />
+  <component name="RunManager" selected="Application.ShuffleTheArray">
+    <configuration name="BuildPermutationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.BuildPermutationArray" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.ReturnPrefix" />
+    <configuration name="ConcatenationOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ConcatenationOfArrays" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RomanNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.RomanNumbers" />
+    <configuration name="FinalValueOfX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.FinalValueOfX" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.removeElementInArray" />
+    <configuration name="NumberOfGoodPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.NumberOfGoodPairs" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.sumOfTwoNumbers" />
+    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ShuffleTheArray" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReturnPrefix" />
-        <item itemvalue="Application.RomanNumbers" />
-        <item itemvalue="Application.PalindromeChecker" />
-        <item itemvalue="Application.sumOfTwoNumbers" />
-        <item itemvalue="Application.removeElementInArray" />
+        <item itemvalue="Application.ShuffleTheArray" />
+        <item itemvalue="Application.FinalValueOfX" />
+        <item itemvalue="Application.NumberOfGoodPairs" />
+        <item itemvalue="Application.BuildPermutationArray" />
+        <item itemvalue="Application.ConcatenationOfArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -159,6 +154,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/StepsClimber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
