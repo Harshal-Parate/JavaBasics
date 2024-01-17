@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/Arrays/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Arrays/ShuffleTheArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +45,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShuffleTheArray">
-    <configuration name="BuildPermutationArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.BuildPermutationArray" />
+  <component name="RunManager" selected="Application.CurrentRunningThread">
+    <configuration name="CurrentRunningThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Threads.CurrentRunningThread" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="Classes.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatenationOfArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ConcatenationOfArrays" />
+    <configuration name="JoinMethodThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Threads.JoinMethodThreads" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="Classes.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalValueOfX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.FinalValueOfX" />
+    <configuration name="TestCallRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Threads.TestCallRun" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="Classes.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfGoodPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.NumberOfGoodPairs" />
+    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Threads.Thread1" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="Classes.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleTheArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ShuffleTheArray" />
+    <configuration name="Thread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Classes.Threads.Thread2" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="Classes.Threads.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShuffleTheArray" />
-        <item itemvalue="Application.FinalValueOfX" />
-        <item itemvalue="Application.NumberOfGoodPairs" />
-        <item itemvalue="Application.BuildPermutationArray" />
-        <item itemvalue="Application.ConcatenationOfArrays" />
+        <item itemvalue="Application.CurrentRunningThread" />
+        <item itemvalue="Application.JoinMethodThreads" />
+        <item itemvalue="Application.Thread2" />
+        <item itemvalue="Application.Thread1" />
+        <item itemvalue="Application.TestCallRun" />
       </list>
     </recent_temporary>
   </component>
