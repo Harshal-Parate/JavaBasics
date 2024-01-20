@@ -19,6 +19,12 @@ public class Thread1 extends Thread {  //Thread using extending "Thread class"
         Thread1 t = new Thread1();
         Thread1 t1 = new Thread1();
         t.start();
-        t1.run();
+        t1.start();
+
+        System.out.println("priority of t = thread is ---> "+t.getPriority());
+        System.out.println("priority of t1 = thread is ---> "+t1.getPriority());
+
+        t.setPriority(Thread.MIN_PRIORITY);
+        System.out.println("priority of t = thread is ---> "+t.getPriority());
     }
 }
