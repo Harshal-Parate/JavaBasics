@@ -6,8 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/Arrays/ShuffleTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Arrays/ShuffleTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/IncrementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/IncrementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/LengthOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/LengthOfLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/PalindromeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/PalindromeChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/ReturnPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/ReturnPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/ReverseAStringUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/ReverseAStringUsingArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/RomanNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/RomanNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/SearchInsertedIndexArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/SearchInsertedIndexArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/StepsClimber.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/SwapTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/TakeUserInputAsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/TakeUserInputAsArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/ValidBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/ValidBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/mergeTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/mergeTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/removeElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/removeElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/sumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/sumOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/execCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/execCommand.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +59,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CurrentRunningThread">
-    <configuration name="CurrentRunningThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.CurrentRunningThread" />
+  <component name="RunManager" selected="Application.ThreadTester">
+    <configuration name="HashMapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Maps.HashMapp" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="Collections.Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinMethodThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.JoinMethodThreads" />
+    <configuration name="HowManyNumbersAreSmallerThanCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.HowManyNumbersAreSmallerThanCurrentNumber" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCallRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.TestCallRun" />
+    <configuration name="MaxNumberOfWordsFoundInScentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MaxNumberOfWordsFoundInScentences" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.Thread1" />
+    <configuration name="RunningSumOf1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.RunningSumOf1DArray" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.Thread2" />
+    <configuration name="ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.Basic.ThreadTester" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="MutliThreading.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CurrentRunningThread" />
-        <item itemvalue="Application.JoinMethodThreads" />
-        <item itemvalue="Application.Thread2" />
-        <item itemvalue="Application.Thread1" />
-        <item itemvalue="Application.TestCallRun" />
+        <item itemvalue="Application.ThreadTester" />
+        <item itemvalue="Application.MaxNumberOfWordsFoundInScentences" />
+        <item itemvalue="Application.RunningSumOf1DArray" />
+        <item itemvalue="Application.HowManyNumbersAreSmallerThanCurrentNumber" />
+        <item itemvalue="Application.HashMapp" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +174,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/StepsClimber.java</url>
+          <url>file://$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
