@@ -6,22 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/IncrementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/IncrementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/LengthOfLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/LengthOfLastWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/PalindromeChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/PalindromeChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/RemoveDuplicatesFromSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/ReturnPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/ReturnPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/ReverseAStringUsingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/ReverseAStringUsingArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/RomanNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/RomanNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/SearchInsertedIndexArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/SearchInsertedIndexArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/StepsClimber.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/SwapTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/SwapTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/TakeUserInputAsArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/TakeUserInputAsArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/ValidBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/ValidBrackets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/mergeTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/mergeTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/removeElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/removeElementInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/sumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/sumOfTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/execCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/execCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Basic/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Basic/Thread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/ThreadTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Basic/ThreadTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/CurrentRunningThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/JavaThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/JavaThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/JoinMethodThreads.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/ReferTheRepo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/TestCallRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/Thread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/Thread2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/execCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/ThreadTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/ThreadTester.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,22 +58,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadTester">
-    <configuration name="HashMapp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collections.Maps.HashMapp" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collections.Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HowManyNumbersAreSmallerThanCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.HowManyNumbersAreSmallerThanCurrentNumber" />
+  <component name="RunManager" selected="Application.MinimumNumberGame">
+    <configuration name="DeCodeXORedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.DeCodeXORedArray" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxNumberOfWordsFoundInScentences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MaxNumberOfWordsFoundInScentences" />
+    <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.LeftAndRightSumDifferences" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -99,12 +85,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunningSumOf1DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.RunningSumOf1DArray" />
+    <configuration name="MinimumNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MinimumNumberGame" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutliThreading.Advanced.ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.Advanced.ThreadTester" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MutliThreading.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumNumberGame" />
+        <item itemvalue="Application.LeftAndRightSumDifferences" />
+        <item itemvalue="Application.DeCodeXORedArray" />
+        <item itemvalue="Application.MutliThreading.Advanced.ThreadTester" />
         <item itemvalue="Application.ThreadTester" />
-        <item itemvalue="Application.MaxNumberOfWordsFoundInScentences" />
-        <item itemvalue="Application.RunningSumOf1DArray" />
-        <item itemvalue="Application.HowManyNumbersAreSmallerThanCurrentNumber" />
-        <item itemvalue="Application.HashMapp" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +176,46 @@
           <url>file://$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
