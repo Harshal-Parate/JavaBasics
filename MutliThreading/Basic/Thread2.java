@@ -1,6 +1,11 @@
 package MutliThreading.Basic;
 
 public class Thread2 extends Thread{
+
+    public Thread2(String threadName) {
+        super(threadName);
+    }
+
     @Override
     public void run() {
         for(int i=5; i<=10; i++) {
