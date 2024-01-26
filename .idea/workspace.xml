@@ -6,21 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Basic/Thread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Basic/Thread2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/ThreadTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Basic/ThreadTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/CurrentRunningThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/JavaThreadPool$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/JavaThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/JoinMethodThreads.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/ReferTheRepo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/TestCallRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/Thread1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/Thread2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/execCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/Thread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/ThreadTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/MutliThreading/Basic/ThreadTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Arrays/MinimumNumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Arrays/MinimumNumberGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;BasicsOfJava&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Streams",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.MinimumNumberGame">
+}]]></component>
+  <component name="RunManager" selected="Application.Students">
     <configuration name="DeCodeXORedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.DeCodeXORedArray" />
       <module name="Java Basics" />
@@ -111,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MutliThreading.Basic.ThreadTester" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsAPI.Students" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MutliThreading.Basic.*" />
+          <option name="PATTERN" value="StreamsAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Students" />
         <item itemvalue="Application.MinimumNumberGame" />
         <item itemvalue="Application.LeftAndRightSumDifferences" />
         <item itemvalue="Application.DeCodeXORedArray" />
         <item itemvalue="Application.MutliThreading.Advanced.ThreadTester" />
-        <item itemvalue="Application.ThreadTester" />
       </list>
     </recent_temporary>
   </component>
@@ -176,46 +163,6 @@
           <url>file://$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="140" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="141" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="142" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="144" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="145" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="146" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Arrays/MinimumNumberGame.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

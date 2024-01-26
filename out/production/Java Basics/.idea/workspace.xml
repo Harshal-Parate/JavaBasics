@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes/Threads/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Threads/Thread1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/Thread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/Classes/Threads/Thread1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Arrays/MinimumNumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Arrays/MinimumNumberGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;BasicsOfJava&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Streams",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.execCommand">
-    <configuration name="CurrentRunningThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.CurrentRunningThread" />
+}]]></component>
+  <component name="RunManager" selected="Application.Students">
+    <configuration name="DeCodeXORedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.DeCodeXORedArray" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.JavaThreadPool" />
+    <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.LeftAndRightSumDifferences" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JoinMethodThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.JoinMethodThreads" />
+    <configuration name="MinimumNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MinimumNumberGame" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thread1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.Thread1" />
+    <configuration name="MutliThreading.Advanced.ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.Advanced.ThreadTester" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="MutliThreading.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="execCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classes.Threads.execCommand" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsAPI.Students" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classes.Threads.*" />
+          <option name="PATTERN" value="StreamsAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.execCommand" />
-        <item itemvalue="Application.JavaThreadPool" />
-        <item itemvalue="Application.Thread1" />
-        <item itemvalue="Application.CurrentRunningThread" />
-        <item itemvalue="Application.JoinMethodThreads" />
+        <item itemvalue="Application.Students" />
+        <item itemvalue="Application.MinimumNumberGame" />
+        <item itemvalue="Application.LeftAndRightSumDifferences" />
+        <item itemvalue="Application.DeCodeXORedArray" />
+        <item itemvalue="Application.MutliThreading.Advanced.ThreadTester" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +159,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/StepsClimber.java</url>
+          <url>file://$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
