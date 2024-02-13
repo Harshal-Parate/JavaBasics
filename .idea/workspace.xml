@@ -7,7 +7,6 @@
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Arrays/MinimumNumberGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Arrays/MinimumNumberGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +40,13 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Streams",
+    "git-widget-placeholder": "Regular-Working",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Students">
-    <configuration name="DeCodeXORedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.DeCodeXORedArray" />
+  <component name="RunManager" selected="Application.ShuffleString">
+    <configuration name="CheckIfTwoStringArraysAreEqual" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.CheckIfTwoStringArraysAreEqual" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftAndRightSumDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.LeftAndRightSumDifferences" />
+    <configuration name="CountItemsMatchingARule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.CountItemsMatchingARule" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumNumberGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MinimumNumberGame" />
+    <configuration name="CreateTargetArrayInGivenOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.CreateTargetArrayInGivenOrder" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -85,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutliThreading.Advanced.ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MutliThreading.Advanced.ThreadTester" />
+    <configuration name="DecompressRunLengthEncodedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.DecompressRunLengthEncodedList" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MutliThreading.Advanced.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamsAPI.Students" />
+    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ShuffleString" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StreamsAPI.*" />
+          <option name="PATTERN" value="leetCode.Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.MinimumNumberGame" />
-        <item itemvalue="Application.LeftAndRightSumDifferences" />
-        <item itemvalue="Application.DeCodeXORedArray" />
-        <item itemvalue="Application.MutliThreading.Advanced.ThreadTester" />
+        <item itemvalue="Application.ShuffleString" />
+        <item itemvalue="Application.CountItemsMatchingARule" />
+        <item itemvalue="Application.CheckIfTwoStringArraysAreEqual" />
+        <item itemvalue="Application.DecompressRunLengthEncodedList" />
+        <item itemvalue="Application.CreateTargetArrayInGivenOrder" />
       </list>
     </recent_temporary>
   </component>
