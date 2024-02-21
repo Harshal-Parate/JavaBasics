@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
-      <change beforePath="$PROJECT_DIR$/leetCode/Arrays/TestCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Arrays/TestCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,22 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TestCode">
-    <configuration name="CountItemsMatchingARule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.CountItemsMatchingARule" />
+  <component name="RunManager" selected="Application.OddLengthSubArraysAndSum">
+    <configuration name="AbsoluteDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.AbsoluteDifference" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArthematicTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ArthematicTriplets" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShuffleString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ShuffleString" />
+    <configuration name="OddLengthSubArraysAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.OddLengthSubArraysAndSum" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -96,26 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TurncateSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.TurncateSentence" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddLengthSubArraysAndSum" />
+        <item itemvalue="Application.AbsoluteDifference" />
+        <item itemvalue="Application.ArthematicTriplets" />
         <item itemvalue="Application.TestCode" />
         <item itemvalue="Application.DifferenceBetweenSumAndSub" />
-        <item itemvalue="Application.TurncateSentence" />
-        <item itemvalue="Application.ShuffleString" />
-        <item itemvalue="Application.CountItemsMatchingARule" />
       </list>
     </recent_temporary>
   </component>
