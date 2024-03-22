@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Basics.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Regular-Working",
-    "settings.editor.selected.configurable": "preferences.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Regular-Working&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.OddLengthSubArraysAndSum">
-    <configuration name="AbsoluteDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.AbsoluteDifference" />
+}</component>
+  <component name="RunManager" selected="Application.MinNumberOfSeatToMocesEveryone">
+    <configuration name="GetForwardAndBackwardDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.GetForwardAndBackwardDiagonal" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -57,8 +58,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArthematicTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.ArthematicTriplets" />
+    <configuration name="MatrixDaigonalSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MatrixDaigonalSum" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DifferenceBetweenSumAndSub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.DifferenceBetweenSumAndSub" />
+    <configuration name="MinNumberOfSeatToMocesEveryone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MinNumberOfSeatToMocesEveryone" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddLengthSubArraysAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.OddLengthSubArraysAndSum" />
+    <configuration name="SubArraysDistinctElementsOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.SubArraysDistinctElementsOfSquares" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.TestCode" />
+    <configuration name="appendingInBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.appendingInBetween" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="InterviewQuestions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OddLengthSubArraysAndSum" />
-        <item itemvalue="Application.AbsoluteDifference" />
-        <item itemvalue="Application.ArthematicTriplets" />
-        <item itemvalue="Application.TestCode" />
-        <item itemvalue="Application.DifferenceBetweenSumAndSub" />
+        <item itemvalue="Application.MinNumberOfSeatToMocesEveryone" />
+        <item itemvalue="Application.appendingInBetween" />
+        <item itemvalue="Application.SubArraysDistinctElementsOfSquares" />
+        <item itemvalue="Application.GetForwardAndBackwardDiagonal" />
+        <item itemvalue="Application.MatrixDaigonalSum" />
       </list>
     </recent_temporary>
   </component>
@@ -161,6 +162,41 @@
           <url>file://$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="266" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
