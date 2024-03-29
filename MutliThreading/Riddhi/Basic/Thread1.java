@@ -1,4 +1,4 @@
-package MutliThreading.Basic;
+package MutliThreading.Riddhi.Basic;
 
 public final class Thread1 implements Runnable {
     @Override

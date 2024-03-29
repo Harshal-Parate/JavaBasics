@@ -1,4 +1,4 @@
-package MutliThreading.Basic;
+package MutliThreading.Riddhi.Basic;
 
 public class Thread2 extends Thread{
 

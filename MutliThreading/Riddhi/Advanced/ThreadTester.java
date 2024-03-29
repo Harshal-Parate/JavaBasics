@@ -1,4 +1,4 @@
-package MutliThreading.Advanced;
+package MutliThreading.Riddhi.Advanced;
 
 public class ThreadTester {
 

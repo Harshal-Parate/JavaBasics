@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Basics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Java Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/Java Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Advanced/ThreadTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Riddhi/Advanced/ThreadTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/Thread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Riddhi/Basic/Thread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/Thread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Riddhi/Basic/Thread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MutliThreading/Basic/ThreadTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/MutliThreading/Riddhi/Basic/ThreadTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FlippingImage">
-    <configuration name="FlippingImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.FlippingImage" />
+  <component name="RunManager" selected="Application.VolatileAtomicSync">
+    <configuration name="DemonThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.JavaDdev.DemonThread" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="MutliThreading.JavaDdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSumWithKElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MaxSumWithKElements" />
+    <configuration name="TwoThreadSameResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.JavaDdev.TwoThreadSameResource" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="MutliThreading.JavaDdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinNumberOfSeatToMocesEveryone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.MinNumberOfSeatToMocesEveryone" />
+    <configuration name="VisibilityIssuesInThreads (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.JavaDdev.VisibilityIssuesInThreads" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="MutliThreading.JavaDdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArraysDistinctElementsOfSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetCode.Arrays.SubArraysDistinctElementsOfSquares" />
+    <configuration name="VisibilityIssuesInThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.JavaDdev.VisibilityIssuesInThreads" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.Arrays.*" />
+          <option name="PATTERN" value="MutliThreading.JavaDdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="appendingInBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.appendingInBetween" />
+    <configuration name="VolatileAtomicSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.JavaDdev.VolatileAtomicSync" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="MutliThreading.JavaDdev.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlippingImage" />
-        <item itemvalue="Application.MaxSumWithKElements" />
-        <item itemvalue="Application.MinNumberOfSeatToMocesEveryone" />
-        <item itemvalue="Application.appendingInBetween" />
-        <item itemvalue="Application.SubArraysDistinctElementsOfSquares" />
+        <item itemvalue="Application.VolatileAtomicSync" />
+        <item itemvalue="Application.VisibilityIssuesInThreads (1)" />
+        <item itemvalue="Application.VisibilityIssuesInThreads" />
+        <item itemvalue="Application.TwoThreadSameResource" />
+        <item itemvalue="Application.DemonThread" />
       </list>
     </recent_temporary>
   </component>
