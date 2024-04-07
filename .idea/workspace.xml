@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterviewQuestions/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/ReverseArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseArray">
-    <configuration name="CheckIfNoIsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.CheckIfNoIsPrime" />
+  <component name="RunManager" selected="Application.DeadLockInJavaThreads">
+    <configuration name="AnagramStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.AnagramStrings" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindingDuplicatesInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindingDuplicatesInString" />
+    <configuration name="ConvertingHashMapToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ConvertingHashMapToArrayList" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoOfCharaInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.NoOfCharaInString" />
+    <configuration name="DeadLockInJavaThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.DeadLockInJavaThreads" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ReverseArray" />
+    <configuration name="FindIfTheNumberIsMagic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindIfTheNumberIsMagic" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwappingTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.SwappingTwoNumbers" />
+    <configuration name="OccurenceOfCharactersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.OccurenceOfCharactersInString" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.SwappingTwoNumbers" />
-        <item itemvalue="Application.FindingDuplicatesInString" />
-        <item itemvalue="Application.NoOfCharaInString" />
-        <item itemvalue="Application.CheckIfNoIsPrime" />
+        <item itemvalue="Application.DeadLockInJavaThreads" />
+        <item itemvalue="Application.AnagramStrings" />
+        <item itemvalue="Application.FindIfTheNumberIsMagic" />
+        <item itemvalue="Application.OccurenceOfCharactersInString" />
+        <item itemvalue="Application.ConvertingHashMapToArrayList" />
       </list>
     </recent_temporary>
   </component>
