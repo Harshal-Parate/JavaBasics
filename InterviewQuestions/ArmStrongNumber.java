@@ -18,6 +18,7 @@ public class ArmStrongNumber {
         System.out.println(result);
 
 
-
     }
+
+
 }

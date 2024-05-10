@@ -6,6 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="b31ac715-348c-4e2d-9e10-f224879969e5" name="Changes" comment="test commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/AnagramStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/AnagramStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/ArmStrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/ArmStrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/CheckIfNoIsPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/CheckIfNoIsPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/CountAndAppend.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/CountAndAppend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/RemoveDuplicatesFromArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/RemoveDuplicatesFromArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/InterviewQuestions/appendingInBetween.java" beforeDir="false" afterPath="$PROJECT_DIR$/InterviewQuestions/appendingInBetween.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/Randoms/sumOfTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Randoms/sumOfTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/Java Basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/Java Basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Randoms/sumOfTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java Basics/leetCode/Randoms/sumOfTwoNumbers.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +38,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ZyhsIMuWGlzF6d2K7XGlENt3Sy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -37,15 +51,32 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Regular-Working&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DeadLockInJavaThreads">
-    <configuration name="AnagramStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.AnagramStrings" />
+  <component name="RunManager" selected="Application.Finding2ndHighestNumber">
+    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.Programmss.ClassA" />
+      <module name="Java Basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MutliThreading.Programmss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Finding2ndHighestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.Finding2ndHighestNumber" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
@@ -57,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertingHashMapToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.ConvertingHashMapToArrayList" />
+    <configuration name="II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsAPI.II" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="StreamsAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeadLockInJavaThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.DeadLockInJavaThreads" />
+    <configuration name="SingletonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamsAPI.SingletonClass" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="StreamsAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,25 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindIfTheNumberIsMagic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.FindIfTheNumberIsMagic" />
+    <configuration name="ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutliThreading.Riddhi.Advanced.ThreadTester" />
       <module name="Java Basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OccurenceOfCharactersInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterviewQuestions.OccurenceOfCharactersInString" />
-      <module name="Java Basics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterviewQuestions.*" />
+          <option name="PATTERN" value="MutliThreading.Riddhi.Advanced.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeadLockInJavaThreads" />
-        <item itemvalue="Application.AnagramStrings" />
-        <item itemvalue="Application.FindIfTheNumberIsMagic" />
-        <item itemvalue="Application.OccurenceOfCharactersInString" />
-        <item itemvalue="Application.ConvertingHashMapToArrayList" />
+        <item itemvalue="Application.Finding2ndHighestNumber" />
+        <item itemvalue="Application.ClassA" />
+        <item itemvalue="Application.ThreadTester" />
+        <item itemvalue="Application.II" />
+        <item itemvalue="Application.SingletonClass" />
       </list>
     </recent_temporary>
   </component>
@@ -158,11 +176,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/leetCode/Randoms/StepsClimber.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
           <line>28</line>
           <option name="timeStamp" value="259" />
@@ -196,6 +209,36 @@
           <url>file://$PROJECT_DIR$/leetCode/Arrays/MatrixDaigonalSum.java</url>
           <line>37</line>
           <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQuestions/Finding2ndHighestNumber.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQuestions/Finding2ndHighestNumber.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQuestions/Finding2ndHighestNumber.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="269" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQuestions/Finding2ndHighestNumber.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQuestions/Finding2ndHighestNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/InterviewQuestions/Finding2ndHighestNumber.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="272" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

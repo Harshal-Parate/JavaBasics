@@ -15,15 +15,15 @@ public class CheckIfNoIsPrime {
     public static void main(String[] args) {
 
         CheckIfNoIsPrime c = new CheckIfNoIsPrime();
-        c.setNumber(11);
+        c.setNumber(12);
         int count = 0;
 
         for(int i=1; i<=c.getNumber(); i++) {
-            if(c.getNumber()%1==0){
+            if(c.getNumber()%i==0){
                 count++;
             }
         }
-        if(count<2) {
+        if(count==2) {
             System.out.println("Prime - "+c.getNumber());
         }
         else System.out.println("Not Prime - "+c.getNumber());

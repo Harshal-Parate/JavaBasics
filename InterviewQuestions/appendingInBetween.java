@@ -46,5 +46,40 @@ public class appendingInBetween {
         String word = "harshal";
         System.out.println(concatNumbers(word));
 
+
+        String str = "Jaiveek";
+        char[] workable = str.toCharArray();
+
+
+
+
+        List<Integer> list = new ArrayList<>();
+
+        int pointer = 5;
+
+        for(int i=0; i<workable.length/2; i++) {
+            list.add(i, pointer);
+            pointer=pointer+5;
+        }
+        for(int i=workable.length/2; i<workable.length; i++) {
+            list.add(i, pointer);
+            pointer=pointer-5;
+        }
+
+        StringBuilder sb = new StringBuilder();
+        for(int i=0; i<workable.length; i++) {
+            sb.append(workable[i]).append(list.get(i)).append(" ");
+        }
+        System.out.println(sb.toString());
+
+
+
+
+
+
+
+
+
+
     }
 }
